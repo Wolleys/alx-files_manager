@@ -48,6 +48,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ## `package.json`
 <details>
 <summary><b>Click to show/hide file contents</b></summary>
+
 ```json
 {
   "name": "files_manager",
@@ -99,6 +100,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ## `.eslintrc.js`
 <details>
 <summary><b>Click to show/hide file contents</b></summary>
+
 ```js
 module.exports = {
     env: {
@@ -143,6 +145,7 @@ module.exports = {
 ## `babel.config.js`
 <details>
 <summary><b>Click to show/hide file contents</b></summary>
+
 ```js
 module.exports = {
     presets: [
